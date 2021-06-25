@@ -1,0 +1,6 @@
+remove
+rm
+rm -i
+rm -f 
+rm -r
+rm -fr
